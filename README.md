@@ -1,6 +1,6 @@
 # test_my_feature
 
-A new Flutter project.
+Write Unit Tests a simple feature for getting users, riverpod as state management
 
 ## Getting Started
 
